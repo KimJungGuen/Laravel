@@ -1,2 +1,2 @@
-# Latavel
+# Laravel
 test
